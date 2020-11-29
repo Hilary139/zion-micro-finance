@@ -4,7 +4,7 @@
 }
 
 html{
-    overflow-x: hidden;
+    overflow-x: none;
 }
 
 body{
@@ -51,11 +51,11 @@ a{
     flex-direction: row;
     margin-top: 50px;
     margin-bottom: -8%;
+    margin-left: -5%;
     
 }
 
 .img-left{
-    margin-left: -70px;
     margin-top: 25%;
     margin-bottom: 10px;
 }
@@ -109,7 +109,7 @@ h3{
     text-align: center;
     text-transform: uppercase;
     color: purple;
-    margin-top: 30%;
+    margin-top: 40%;
     
 }
 .service{
